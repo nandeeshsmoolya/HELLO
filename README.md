@@ -1,0 +1,1 @@
+For a very basic Hello World project, you can also use this minimalist version: ```markdown # Hello World My first GitHub repository. ## Description A simple Hello World project created to learn GitHub basics. ## Nandeesh https://github.com/nandeeshsmoolya
